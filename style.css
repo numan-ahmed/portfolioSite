@@ -1,0 +1,171 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+section{
+    height:500px;
+    padding-bottom: 150px;
+}
+.top_section{
+
+    background-image: url(developer-portfolio/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.half_width{
+    width:40%;
+    margin-left:5%;
+    margin-top:30px;
+    padding:2%;
+    float: left;
+
+}
+
+.thard_width{
+    width:24%;
+    margin:0% 2%;
+    margin-top:30px;
+    padding:2%;
+    float: left;
+
+}
+
+span{
+    color:#ff7f50;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#heigh_light{
+    color:#0e0d0d;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    padding-top: 20px;
+    font-family: CURSIVE;
+}
+h2 {
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 40px;
+    margin: 0 auto;
+    padding-top:60px;
+
+}
+h3 {
+    font-size: 20px;
+    padding-top:20px;
+    color:darkgoldenrod;
+}
+p{
+    padding:10px 5px;
+    color:grey;
+    margin-bottom: 20px;
+    font-size:16px;
+    text-align:justify;
+
+}
+a{
+    padding:8px 15px;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    color:white;
+    background: #ff7f50;
+    margin-top:30px;
+    border-radius: 5px;
+}
+
+.half_width img{
+    width: 100%;
+}
+
+.about_section{
+    background-image: url(developer-portfolio/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    margin-bottom: 30px;
+    margin-top:50px;
+
+}
+.projects_area{
+    margin-bottom: 88px;
+    background:#f1eded;
+    margin-top:150px;
+}
+
+#projects_title {
+    margin-top:40px;
+    text-align: center;
+    color: tomato;
+    border-bottom: 4px solid #e8d8d8;
+    padding-bottom: 24px;
+  
+}
+
+.exp_shadow{
+padding-top:30px;
+height:80%;
+border-radius: 6px;
+background:white;
+
+
+}
+#full_stack{
+    border-left:8px solid;
+    border-image:linear-gradient(180deg,tomato, #e9bdac);
+    border-image-slice: 1;
+
+}
+#baby_web{
+    border-left:8px solid;
+    border-image:linear-gradient(180deg,#e426da, #e49bda);
+    border-image-slice: 1;
+
+}
+
+footer p {
+    text-align:center;
+    font-size:14px;
+    color:black;
+
+}
+ img{
+     width:100%;
+ }
+
+ .designe{
+    width:50%;
+    margin: auto;
+    height:100px;
+    background-image:url(images/Group_33094_1.png);
+    margin-bottom:100px;
+    border-radius: 0px 16px 14px 69px;
+
+}
+
+ .contact_us{
+     
+     padding:30px 10px 20px 40px;
+     
+ }
+
+
+ #text_size{
+    display:block;
+    float:left;
+    color: white;
+    font-size: 46px;
+ }
+ 
+ #text_style{
+    positon: top;
+    padding: -10px 5px;
+    display:block;
+    float:right;
+    margin-right: 16px;
+    font-size: 26px;
+    margin-top: 1px;
+ }
